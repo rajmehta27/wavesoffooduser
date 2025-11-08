@@ -10,7 +10,17 @@ It provides a seamless food ordering experience for users and an intuitive manag
 <img width="720" height="1600" alt="image" src="https://github.com/user-attachments/assets/657c874f-b0f6-4d30-9f1d-62b667d8fd81" />
 <img width="720" height="1600" alt="image" src="https://github.com/user-attachments/assets/d8cde28f-2004-41e8-9684-b81dc35202a2" />
 <img width="720" height="1600" alt="image" src="https://github.com/user-attachments/assets/0ebc0ffb-d6a3-41e8-95bf-40af6e00655d" />
-![IMG-20251108-WA0028](https://github.com/user-attachments/assets/7056cadc-141b-460d-a884-e7b8da8e1edf)
+<img width="689" height="1531" alt="image" src="https://github.com/user-attachments/assets/35ef72aa-c051-42a1-86fa-ecd64cf6f418" />
+<img width="689" height="1531" alt="image" src="https://github.com/user-attachments/assets/fbeabbc7-81ef-46f7-a8fd-fd76dd0c2c7e" />
+<img width="689" height="1531" alt="image" src="https://github.com/user-attachments/assets/35281de0-b038-4754-b272-11d084be6fb2" />
+<img width="689" height="1531" alt="image" src="https://github.com/user-attachments/assets/87dceb7f-2aeb-41c7-a3f8-6feca8c535c9" />
+<img width="689" height="1531" alt="image" src="https://github.com/user-attachments/assets/3cb8fbd7-8bc2-4c30-bc48-df5efcd0c54d" />
+<img width="689" height="1531" alt="image" src="https://github.com/user-attachments/assets/70f02a67-90fb-4edd-b07c-2ab501975107" />
+<img width="689" height="1531" alt="image" src="https://github.com/user-attachments/assets/905b8dd9-ab9c-4e81-a3e3-e52083c45541" />
+<img width="689" height="1531" alt="image" src="https://github.com/user-attachments/assets/b88a8fcc-e4c8-4904-827c-7584172db720" />
+<img width="689" height="1531" alt="image" src="https://github.com/user-attachments/assets/ed393985-e2fc-45e9-99c5-651830db33d2" />
+<img width="689" height="1531" alt="image" src="https://github.com/user-attachments/assets/2b6825d9-5270-44c3-b482-8a386fd6b59e" />
+
 
 
 ---
